@@ -76,6 +76,72 @@ I combine hands-on software development experience with enterprise architecture 
 
 ---
 
+## 🚀 Featured Projects & Professional Experience
+
+### 💼 1. Enterprise ERP & .NET Development
+**Role:** .NET Developer Analyst & Development Project Lead  
+**Company:** TOTVS | 2003–2009
+
+Worked on ERP system initiatives and software development, including the TOTVSRM Strategic Property Management project.
+
+- Contributed to enterprise software development and ERP solutions.
+- Worked with project planning, requirements analysis, and technical problem-solving.
+- Supported the delivery of technology solutions for clients in the real estate and construction sectors.
+
+**Technologies:** C#, .NET, SQL, ERP
+
+### ☁️ 2. Salesforce CRM Implementations & Integrations
+**Role:** Salesforce Project Manager  
+**Companies:** Deloitte Digital / CbCloud and Accenture | 2018–2024
+
+Led enterprise Salesforce implementation initiatives for clients across multiple industries, including banking and automotive.
+
+- Coordinated cross-functional teams delivering CRM solutions.
+- Supported integration and data sharing across Sales, Marketing, Customer Service, and IT.
+- Contributed to digital customer service initiatives involving messaging, live chat, and social media.
+- Helped optimize lead management processes, contributing to a **65% reduction in lead response time** in a Salesforce project.
+
+**Technologies:** Salesforce CRM, Sales Cloud, Service Cloud, Experience Cloud, Marketing Cloud, system integrations
+
+### 🔄 3. CRM, Marketing Automation & RevOps
+**Role:** Project Manager & Scrum Master  
+**Independent Consulting | 2023–2024**
+
+Managed CRM implementation projects for multiple clients, including HubSpot solutions for small and medium-sized businesses.
+
+- Coordinated implementation planning, scope, schedules, and resources.
+- Improved data sharing across Sales, Marketing, IT, and Customer Service.
+- Supported business process optimization and enhanced customer experience through digital channels.
+- Facilitated requirements analysis, Agile ceremonies, and risk management.
+
+**Technologies:** HubSpot, Salesforce, Agile, Scrum, ClickUp, Agile Accelerator
+
+### 📊 4. Enterprise Platform Implementation & Integration
+**Role:** Project Manager & PMO  
+**Company:** Otus7 | 2025–2026
+
+Managed implementation projects involving the Irisys platform across multiple clients.
+
+- Coordinated cross-functional teams and project delivery.
+- Facilitated requirements mapping, kickoff meetings, and status reporting.
+- Supported data sharing between Sales, IT, and Customer Service.
+- Helped improve customer support through personalized service insights and digital channels.
+
+**Tools:** ClickUp, Microsoft Teams, dashboards
+
+---
+
+### 🧩 Personal Development Projects
+
+I'm also interested in building and sharing practical software solutions focused on:
+
+- RESTful APIs and backend development with C# and ASP.NET Core.
+- Salesforce development using Apex and Lightning Web Components (LWC).
+- Database-driven applications and enterprise system integrations.
+- Automation, maintainable code, and software engineering best practices.
+
+*Explore my repositories for code samples, experiments, and technical projects.*
+
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, exchanging ideas, and collaborating on meaningful technology projects.
